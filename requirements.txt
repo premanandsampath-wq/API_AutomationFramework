@@ -5,3 +5,6 @@ pyyaml
 pytest-html 
 jsonschema
 pip 
+playwright
+pytest-playwright
+pytest-cov 
