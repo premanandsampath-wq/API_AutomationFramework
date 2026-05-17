@@ -1,0 +1,15 @@
+2026-04-25 18:03:50 | INFO | APIClient initialized with base URL: https://dummyjson.com and endpoint: /auth/login
+2026-04-25 18:03:50 | INFO | APIClient initialized with base URL: https://dummyjson.com and endpoint: /auth/me
+2026-04-25 18:03:50 | INFO | Making POST request to URL: https://dummyjson.com/auth/login with data: {'username': 'emilys', 'password': 'emilyspass'}
+2026-04-25 18:03:50 | INFO | Login response status: 200
+2026-04-25 18:03:50 | INFO | Login successful!
+2026-04-25 18:04:14 | INFO | APIClient initialized with base URL: https://dummyjson.com and endpoint: /auth/login
+2026-04-25 18:04:14 | INFO | APIClient initialized with base URL: https://dummyjson.com and endpoint: /auth/me
+2026-04-25 18:04:14 | INFO | Making POST request to URL: https://dummyjson.com/auth/login with data: {'username': 'emilys', 'password': 'emilyspass'}
+2026-04-25 18:04:14 | INFO | Login response status: 200
+2026-04-25 18:04:14 | INFO | Login successful!
+2026-04-25 18:05:36 | INFO | APIClient initialized with base URL: https://dummyjson.com and endpoint: /auth/login
+2026-04-25 18:05:36 | INFO | APIClient initialized with base URL: https://dummyjson.com and endpoint: /auth/me
+2026-04-25 18:05:36 | INFO | Making POST request to URL: https://dummyjson.com/auth/login with data: {'username': 'emilys', 'password': 'emilyspass'}
+2026-04-25 18:05:36 | INFO | Login response status: 200
+2026-04-25 18:05:36 | INFO | Login successful!

@@ -1,0 +1,6 @@
+BASE_URL = "https://dummyjson.com"
+PRODUCT_ENDPOINT = "/products/1"
+AUTH_ENDPOINT = "/auth/login"
+TOKEN_VALIDATION_ENDPOINT = "/auth/me"
+USERNAME = "emilys"
+PASSWORD = "emilyspass"

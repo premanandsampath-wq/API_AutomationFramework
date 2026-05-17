@@ -1,0 +1,11 @@
+DEBUG    pytest_bdd.scenario:scenario.py:150 Adding providers for fixture 'pytestbdd_stepimpl_given_I have valid login credentials': [<FixtureDef argname='pytestbdd_stepdef_given_I have valid login credentials' scope='function' baseid='scr/bdd/step_definition/test_login_steps.py'>]
+DEBUG    pytest_bdd.scenario:scenario.py:150 Adding providers for fixture 'pytestbdd_stepimpl_when_I call the login API': [<FixtureDef argname='pytestbdd_stepdef_when_I call the login API' scope='function' baseid='scr/bdd/step_definition/test_login_steps.py'>]
+INFO     root:API_Client.py:12 APIClient initialized with base URL: https://dummyjson.com and endpoint: /auth/login
+INFO     root:API_Client.py:12 APIClient initialized with base URL: https://dummyjson.com and endpoint: /auth/me
+INFO     root:API_Client.py:35 Making POST request to URL: https://dummyjson.com/auth/login with data: {'username': 'emilys', 'password': 'emilyspass'}
+DEBUG    urllib3.connectionpool:connectionpool.py:1049 Starting new HTTPS connection (1): dummyjson.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:544 https://dummyjson.com:443 "POST /auth/login HTTP/1.1" 200 None
+INFO     api-basic:Authorisation.py:28 Login response status: 200
+INFO     api-basic:Authorisation.py:30 Login successful!
+DEBUG    pytest_bdd.scenario:scenario.py:150 Adding providers for fixture 'pytestbdd_stepimpl_then_the response status code should be 200': [<FixtureDef argname='pytestbdd_stepdef_then_the response status code should be 200' scope='function' baseid='scr/bdd/step_definition/test_login_steps.py'>]
+DEBUG    pytest_bdd.scenario:scenario.py:150 Adding providers for fixture 'pytestbdd_stepimpl_then_the response should contain a valid token': [<FixtureDef argname='pytestbdd_stepdef_then_the response should contain a valid token' scope='function' baseid='scr/bdd/step_definition/test_login_steps.py'>]

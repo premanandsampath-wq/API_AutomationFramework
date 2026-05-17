@@ -1,0 +1,5 @@
+INFO     root:API_Client.py:12 APIClient initialized with base URL: https://dummyjson.com and endpoint: /auth/login
+INFO     root:API_Client.py:12 APIClient initialized with base URL: https://dummyjson.com and endpoint: /auth/me
+INFO     root:API_Client.py:35 Making POST request to URL: https://dummyjson.com/auth/login with data: {'username': 'emilys', 'password': 'emilyspass'}
+INFO     api-basic:Authorisation.py:28 Login response status: 200
+INFO     api-basic:Authorisation.py:30 Login successful!
