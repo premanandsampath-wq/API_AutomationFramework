@@ -1,0 +1,10 @@
+base_url: "https://dummyjson.com"
+auth:
+  login_endpoint: "/auth/login"
+  me_endpoint: "/auth/me"
+  username: "emilys"
+  password: "emilyspass"
+logging:
+  level: "INFO"
+
+
